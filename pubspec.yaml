@@ -9,6 +9,7 @@ environment:
 
 dependencies:
   over_react: ^2.0.0
+  mobx:
 #  w_flux: ^2.10.1
 #  react: ^4.6.0
 
