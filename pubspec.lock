@@ -288,6 +288,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.0"
+  json_serializable:
+    dependency: "direct dev"
+    description:
+      name: json_serializable
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.2.2"
   kernel:
     dependency: transitive
     description:
@@ -330,6 +337,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.3.5+1"
+  mobx_codegen:
+    dependency: "direct dev"
+    description:
+      name: mobx_codegen
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.3.4"
+  moor:
+    dependency: "direct main"
+    description:
+      path: "/Users/elvislee/workspace/dart/moor/moor"
+      relative: false
+    source: path
+    version: "1.7.1"
+  moor_generator:
+    dependency: "direct dev"
+    description:
+      path: "/Users/elvislee/workspace/dart/moor/moor_generator"
+      relative: false
+    source: path
+    version: "1.7.1"
   multi_server_socket:
     dependency: transitive
     description:
@@ -435,6 +463,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.9.0"
+  recase:
+    dependency: transitive
+    description:
+      name: recase
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.1"
   sass:
     dependency: transitive
     description:
@@ -505,6 +540,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.5.5"
+  sqlparser:
+    dependency: transitive
+    description:
+      name: sqlparser
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.0"
   stack_trace:
     dependency: transitive
     description:
@@ -533,6 +575,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.5"
+  synchronized:
+    dependency: transitive
+    description:
+      name: synchronized
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.1.0+1"
   term_glyph:
     dependency: transitive
     description:
